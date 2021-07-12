@@ -8,7 +8,7 @@ description = "GCS Bucket name. Value should be unique ."
 type        = string
 }
 
-variable "bucket_name2" {
+variable "bucket_name1" {
 description = "GCS Bucket name. Value should be unique ."
 type        = string
 }
