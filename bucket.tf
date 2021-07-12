@@ -10,7 +10,4 @@ name     = var.bucket_name
 location = var.region
 }
 
-resource "google_storage_bucket" "my_bucket_test2" {
-name     = var.bucket_name2
-location = var.region
- }
+
