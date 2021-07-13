@@ -8,6 +8,11 @@ description = "GCS Bucket name. Value should be unique ."
 type        = string
 }
 
+variable "bucket_name2" {
+description = "GCS Bucket name. Value should be unique ."
+type        = string
+}
+
 variable "region" {
 description = "Google Cloud region"
 type        = string
